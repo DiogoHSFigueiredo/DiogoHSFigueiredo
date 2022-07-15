@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Study to become a fullstack developer in Java language
 - 🌱 I’m currently learning: Logic, Java, MySQL, JavaScript, CSS3 and HTML5.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: diogohenrique15@hotmail.com
+- 📫 How to reach me: diogohsfigueiredo@gmail.com
 
 <!---
 DiogoHSFigueiredo/DiogoHSFigueiredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
