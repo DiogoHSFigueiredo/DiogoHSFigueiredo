@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoHSFigueiredo
 - 👀 I’m interested in: Study to become a fullstack developer in Java language
-- 🌱 I’m currently learning: Logic, Java, MySQL, JavaScript, CSS3 and HTML5.
+- 🌱 I’m currently learning: Logic, Java, MySQL, JavaScript, CSS3 and HTML5, GIT/GITHUB.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: diogohsfigueiredo@gmail.com
 
